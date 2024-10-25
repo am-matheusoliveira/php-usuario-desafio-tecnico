@@ -27,6 +27,22 @@ Este projeto é um sistema de login desenvolvido em PHP orientado a objetos, ond
  - Banco de Dados MySQL 8.0
  - Servidor Web(Wamp Server, xampp, nginx, etc.)
 
+## Imagnes
+
+### 1. Página de Cadastro
+
+![IMG-02](https://github.com/user-attachments/assets/68fd3992-c1bf-4825-8a40-1db598d1be9d)
+
+
+### 2. Página de Login
+
+![IMG-01](https://github.com/user-attachments/assets/5128d16c-c549-4e28-9567-71c35d35a874)
+
+
+### 3. Área Privada - Login Realizado
+
+![IMG-03](https://github.com/user-attachments/assets/b68cc1a6-a2ac-434f-907b-f2bffa9dda55)
+
 
 ## Instalação
 Na pasta onde ficam seus projetos PHP, execute os seguintes comandos.
