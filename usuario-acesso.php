@@ -76,7 +76,7 @@ if(isset($_POST['acao'])){
                     $obUsuario->email_user    = $_POST['email'];
                     $obUsuario->password_user = password_hash($_POST['senha'], PASSWORD_DEFAULT);
                     $obUsuario->title_user    = $data['title'];
-                    $obUsuario->code_user     = base64_encode(random_bytes(32));
+                    $obUsuario->code_user     = base64_encode(random_bytes(16));
                     $obUsuario->cadastrar();
                     
                     // LOGA O USUÁRIO
