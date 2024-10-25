@@ -5,6 +5,9 @@
 
 Este projeto é um sistema de login desenvolvido em PHP orientado a objetos, onde o usuário pode se cadastrar e, após o registro, fazer login para acessar uma área privada do sistema.
 
+## Deploy do projeto em produção
+Este projeto está hospedado no serviço EC2 da AWS. Você pode acessá-lo e testá-lo agora mesmo clicando no link: [Deploy do Projeto no EC2](http://ec2-54-207-10-129.sa-east-1.compute.amazonaws.com/php-usuario-desafio-tecnico)
+
 ## Funcionalidades
 
 - **Cadastro de Usuário**: Permite que novos usuários se cadastrem no sistema através de uma página dedicada ao preenchimento de informações pessoais e de acesso.
